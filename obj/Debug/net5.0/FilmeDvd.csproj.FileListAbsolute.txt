@@ -1,0 +1,16 @@
+C:\Users\Ana\OneDrive\Área de Trabalho\FilmeDvd\obj\Debug\net5.0\FilmeDvd.csproj.AssemblyReference.cache
+C:\Users\Ana\OneDrive\Área de Trabalho\FilmeDvd\obj\Debug\net5.0\FilmeDvd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ana\OneDrive\Área de Trabalho\FilmeDvd\obj\Debug\net5.0\FilmeDvd.AssemblyInfoInputs.cache
+C:\Users\Ana\OneDrive\Área de Trabalho\FilmeDvd\obj\Debug\net5.0\FilmeDvd.AssemblyInfo.cs
+C:\Users\Ana\OneDrive\Área de Trabalho\FilmeDvd\obj\Debug\net5.0\FilmeDvd.csproj.CoreCompileInputs.cache
+C:\Users\Ana\OneDrive\Área de Trabalho\FilmeDvd\bin\Debug\net5.0\FilmeDvd.exe
+C:\Users\Ana\OneDrive\Área de Trabalho\FilmeDvd\bin\Debug\net5.0\FilmeDvd.deps.json
+C:\Users\Ana\OneDrive\Área de Trabalho\FilmeDvd\bin\Debug\net5.0\FilmeDvd.runtimeconfig.json
+C:\Users\Ana\OneDrive\Área de Trabalho\FilmeDvd\bin\Debug\net5.0\FilmeDvd.runtimeconfig.dev.json
+C:\Users\Ana\OneDrive\Área de Trabalho\FilmeDvd\bin\Debug\net5.0\FilmeDvd.dll
+C:\Users\Ana\OneDrive\Área de Trabalho\FilmeDvd\bin\Debug\net5.0\ref\FilmeDvd.dll
+C:\Users\Ana\OneDrive\Área de Trabalho\FilmeDvd\bin\Debug\net5.0\FilmeDvd.pdb
+C:\Users\Ana\OneDrive\Área de Trabalho\FilmeDvd\obj\Debug\net5.0\FilmeDvd.dll
+C:\Users\Ana\OneDrive\Área de Trabalho\FilmeDvd\obj\Debug\net5.0\ref\FilmeDvd.dll
+C:\Users\Ana\OneDrive\Área de Trabalho\FilmeDvd\obj\Debug\net5.0\FilmeDvd.pdb
+C:\Users\Ana\OneDrive\Área de Trabalho\FilmeDvd\obj\Debug\net5.0\FilmeDvd.genruntimeconfig.cache
